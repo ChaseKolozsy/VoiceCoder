@@ -1,0 +1,6 @@
+[submodule "android"]
+	path = android
+	url = ../android
+[submodule "backend"]
+	path = backend
+	url = ../backend
