@@ -1,0 +1,30 @@
+# Ignore submodules
+/backend/
+/android/
+
+# Ignore environment files
+.env
+
+# Ignore Python virtual environments
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
